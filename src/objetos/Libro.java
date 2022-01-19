@@ -1,3 +1,7 @@
+/* 
+ * @author: Abel, Fernando, Raul
+ * */
+
 package objetos;
 
 public class Libro {
